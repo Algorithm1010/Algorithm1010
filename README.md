@@ -1,6 +1,6 @@
 <h1>Hello 👋, I'm Sinan Adiyaman</h1>
 <p>I'm proud to connect Coding with business processes.</p>
-<p>- As a computer scientist I specialised in automation with RPA an Ai.</p>
+<p>- As a computer scientist I'm specialized in automation with RPA an Ai.</p>
 <p>- RPA means Robotic Process Automation.</p>
 <p>- contact me for collaboration: sinan.adiyaman@gmx.de</p>
 <h2>🚀 Tools and programming languages which I used:</h2>
